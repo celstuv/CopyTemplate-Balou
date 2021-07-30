@@ -1,1 +1,1 @@
-# CopyTemplte-Balou
+# CopyTemplate-Balou
